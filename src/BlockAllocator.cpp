@@ -159,4 +159,5 @@ namespace mfg {
             block = block->next;
         }
     }
+}
 #endif // MFG_DEBUG
